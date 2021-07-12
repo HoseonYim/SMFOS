@@ -1,4 +1,4 @@
 name: SMFOS
-version: @version@
-main: SMFOS.SMFOS.menu.Main
+version: pre-version 0.0.1
+main: SMFOS.Main
 api-version: 1.17
