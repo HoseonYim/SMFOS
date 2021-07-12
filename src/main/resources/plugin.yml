@@ -1,0 +1,4 @@
+name: SMFOS
+version: @version@
+main: SMFOS.Main
+api-version: 1.17
