@@ -1,4 +1,4 @@
-package SMFOS.menu;
+package com.smfos.menu;
 
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Bukkit;

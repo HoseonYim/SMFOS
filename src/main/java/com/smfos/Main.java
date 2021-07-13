@@ -1,4 +1,4 @@
-package SMFOS;
+package com.smfos;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

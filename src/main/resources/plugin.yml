@@ -1,4 +1,9 @@
 name: SMFOS
-version: pre-version 0.0.1
-main: SMFOS.Main
+version: 0.0.1
+main: com.smfos.Main
 api-version: 1.17
+authors: [ dacoev ]
+description: In development
+commands:
+  menu:
+    aliases: 메뉴
